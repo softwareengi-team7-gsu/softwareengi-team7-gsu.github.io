@@ -1,0 +1,137 @@
+body
+{
+  background-image: url("../images/background.jpg");
+  background-size: cover;
+  font-family: sans-serif,Arial;
+  background-blend-mode: overlay;
+}
+table
+{
+width:80%;
+border-spacing: ="0";
+}
+h1
+{
+  border-style: double;
+}
+h2
+{
+  border-bottom: double;
+}
+#Goal
+{
+list-style: disc;
+}
+#Diagram
+{
+list-style: none;
+}
+div.static
+{
+    position: relative;
+
+    font-style: italic;
+    text-align: center;
+    font-family: monospace,Arial;
+}
+span
+{
+color: red;
+font-weight: bold
+}
+#Summary tr:nth-child(even)
+{
+  background-color:#f2f2f2
+}
+#Summary 
+{
+text-align: center;
+}
+
+a:link
+{
+    color: black;
+}
+
+
+a:visited
+{
+    color: green;
+}
+
+
+a:hover
+{
+    color: hotpink;
+}
+
+h1,h2
+{
+  color: #A4A400;
+  background-color: #F0F0F0;
+  text-align: center;
+  font-family: Century Gothic, Futura, Verdana;
+}
+#navigation_bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navigation_button {
+    float: left;
+}
+
+.navigation_button a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.navigation_button a:hover
+{
+    background-color: #111;
+    transition: 500ms;
+}
+.bold
+{
+  font-weight: bold;
+}
+table
+{
+  color: #FFFFFF;
+
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #CC9933;
+    margin-top: 20px;
+    padding: 5px;
+
+}
+
+td, th {
+    border: 2px solid #FFFFFF;
+    text-align: left;
+    padding: 5px;
+    font-weight: bold;
+}
+th
+{
+text-align: center;
+background-color:  #003366;
+}
+.headTab
+{
+  color: #A4A400;
+  background-color: #F0F0F0;
+
+}
+img
+{
+  float:right;
+}
