@@ -135,3 +135,7 @@ img
 {
   float:right;
 }
+div
+{
+overflow: scroll;  
+}
