@@ -30,6 +30,12 @@ We provide a more convenient and modern approach for Flight Scheduling and Manag
 Target Customers.
 Corporate Flight Department.
 Managements Companies
+
+Dependencies 
+we use ejs , express, faker, jest, mysql
+To install those packages use
+npm i ejs , express, faker, jest, mysql
+
  
 Scope of product.
 Make flight schedule browsing, tracking more convenient and easier to follow.
